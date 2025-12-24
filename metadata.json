@@ -1,0 +1,7 @@
+{
+  "name": "Khan Medical Complex - Management System",
+  "description": "A comprehensive React-based Medical Store Management System featuring inventory tracking, multi-item billing, and sales reporting with local persistence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
